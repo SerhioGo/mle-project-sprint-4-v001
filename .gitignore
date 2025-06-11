@@ -163,19 +163,9 @@ cython_debug/
 #  and can be added to the global gitignore or merged into this file.  For a more nuclear
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
-<<<<<<< HEAD
 #
 
 # data
 *.par
 *.parquet
 *.pickle
-=======
-
-# data
-*.parquet
-*.pickle
-
-# project environment
-env_recsys_start/
->>>>>>> 10b96c6890c39abe6ec6776269f3380498672f4e
