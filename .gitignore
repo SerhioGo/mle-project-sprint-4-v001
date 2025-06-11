@@ -129,11 +129,9 @@ venv/
 ENV/
 env.bak/
 venv.bak/
-<<<<<<< HEAD
 FastAPI/
 models/
-=======
->>>>>>> 10b96c6890c39abe6ec6776269f3380498672f4e
+env_recsys_start/
 
 # Spyder project settings
 .spyderproject
